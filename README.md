@@ -25,5 +25,4 @@ Audit logging, security monitoring, and incident response procedures
 The main objective is to provide an educational reference for students at University College London learning about application security and privacy-preserving architectures.
 
 
-API Token: ucl{github_0opsie}
 
