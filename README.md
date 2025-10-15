@@ -24,5 +24,19 @@ Audit logging, security monitoring, and incident response procedures
 
 The main objective is to provide an educational reference for students at University College London learning about application security and privacy-preserving architectures.
 
+📊 Logging & Monitoring
 
+Every request is logged with:
+
+timestamp
+
+HTTP method and route
+
+status code
+
+user ID (if available)
+
+latency (ms)
+
+Logs are shipped to Splunk/SIEM for correlation and alerting.
 
